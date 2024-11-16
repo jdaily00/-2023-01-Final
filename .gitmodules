@@ -1,0 +1,12 @@
+[submodule "project"]
+	path = project
+	url = https://github.com/finalPRJ/project.git
+[submodule "AIModel"]
+	path = AIModel
+	url = https://github.com/finalPRJ/AIModel.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/finalPRJ/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/finalPRJ/frontend.git
